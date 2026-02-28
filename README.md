@@ -1,4 +1,4 @@
-# Building AI “Digital Animal Twins” as an Ethical Alternative to In Vivo Toxicity Testing
+### Building AI “Digital Animal Twins” as an Ethical Alternative to In Vivo Toxicity Testing
 
 **Author:** Akshay Aralikatti  
 **GitHub:** [@AkshayArali](https://github.com/AkshayArali)
